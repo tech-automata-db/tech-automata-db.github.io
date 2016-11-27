@@ -1,4 +1,5 @@
 nav ul {
       display:inline;
       float:left;
+      list-style-type:none;
 }
